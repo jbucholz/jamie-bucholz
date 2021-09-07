@@ -3,6 +3,8 @@
 </p>
 
 
+<i class="fas fa-vial"></i> <i class="fas fa-flask"></i>
+
 #### I have graciously borrowed this website format from the Green lab, see documentation below
 
 
