@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 
-#PhD Student, Freshwater mussel nerd
+# PhD Student, Freshwater mussel nerd
 <i class="fas fa-vial"></i>
 <i class="fas fa-flask"></i>
 
