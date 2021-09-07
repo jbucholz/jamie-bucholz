@@ -6,16 +6,10 @@
 <i class="fas fa-vial"></i>
 <i class="fas fa-flask"></i>
 
-/home/jamie/Downloads/dna-strand-2.svg
+<img src ="/home/jamie/Downloads/dna-strand-2.svg" />
 
 #### I have graciously borrowed this website format from the Green lab, see documentation below
 
-
-<kbd>
-  <a href="https://greenelab.com/">
-    <img src="https://greenelab.com/favicons/share-thumbnail.jpg" height="150px" alt="GreeneLab.com" />
-  </a>
-</kbd>
 
 more coming soon...
 
