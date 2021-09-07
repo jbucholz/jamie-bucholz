@@ -15,7 +15,7 @@ more coming soon...
 
 ## Pages
 
-[Contact] (https://github.com/jbucholz/jamie-bucholz/Contact)
+[Contact](https://github.com/jbucholz/jamie-bucholz/contact)
 
 
 ## Documentation
