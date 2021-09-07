@@ -13,8 +13,9 @@
 
 more coming soon...
 
-## Features
+## Pages
 
+[Contact] (https://github.com/jbucholz/jamie-bucholz/Contact)
 
 
 ## Documentation
